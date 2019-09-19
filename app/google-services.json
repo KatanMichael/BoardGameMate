@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "563473795357",
+    "firebase_url": "https://boardgamemate.firebaseio.com",
+    "project_id": "boardgamemate",
+    "storage_bucket": "boardgamemate.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563473795357:android:a3b7227591ed570b7379f4",
+        "android_client_info": {
+          "package_name": "com.michael.boardgamemate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "563473795357-buo5o558d7j8bp9rql7b36htm1uliod6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.michael.boardgamemate",
+            "certificate_hash": "4dd575516387e7642c205b2993608f6fb93d7e5d"
+          }
+        },
+        {
+          "client_id": "563473795357-6c0ellmsde9a0uca8s9d1gdapns8auhv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYiRRFO5_s81sVe-1Y17v2bLD4m1ihOyU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "563473795357-6c0ellmsde9a0uca8s9d1gdapns8auhv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

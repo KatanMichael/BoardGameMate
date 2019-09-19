@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/newsFeed"
+        android:enabled="true"
+        android:icon="@drawable/common_google_signin_btn_icon_dark"
+        android:title="newsFeed"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/gamesList"
+        android:enabled="true"
+        android:icon="@drawable/common_google_signin_btn_icon_light"
+        android:title="gamesList"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/groupList"
+        android:enabled="true"
+        android:icon="@drawable/common_google_signin_btn_text_light"
+        android:title="groupList"
+        app:showAsAction="ifRoom" />
+</menu>
